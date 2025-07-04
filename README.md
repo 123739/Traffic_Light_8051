@@ -16,8 +16,8 @@ This project simulates a traffic light control system using the 8051 microcontro
 
 ## Files Included (to be added):
 - `four-waytraffic.c` – Embedded C source code
-- `trafficlight.dsn` – Proteus simulation file
-- `output_screenshot.png` – Simulation result screenshot
+- `trafficlight.pdpsrj` – Proteus simulation file
+- `traffic_light_simulation.mp4` – Simulation result video
 
 ## Notes:
 This is a fully simulated project designed as part of embedded systems training during internship.
